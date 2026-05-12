@@ -1,0 +1,5 @@
+interface:
+  display_name: "AI Group Review"
+  short_description: "Run privacy-conscious external AI reviews and archive replies"
+  brand_color: "#2563EB"
+  default_prompt: "Use $ai-group-review to prepare a sanitized multi-model external AI review packet, archive replies, and synthesize safe suggestions."
