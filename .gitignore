@@ -1,0 +1,6 @@
+ai-group-review-runs/
+prompt-parts/
+*.local.md
+*.local.json
+*.tmp.md
+*.tmp.json
