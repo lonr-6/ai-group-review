@@ -25,6 +25,8 @@ Browser automation can fail because web apps change selectors, block paste, requ
 
 Do not bypass CAPTCHA, login, paywalls, or platform limits.
 
+On Windows, clipboard writes may occasionally leave old content in the browser paste buffer. After pasting, verify the first lines or character count before sending. If the pasted content is stale or incomplete, reset the clipboard with a more reliable method, paste manually, or ask the user to paste the approved packet.
+
 ## Provider Metadata to Record
 
 - Provider name.
